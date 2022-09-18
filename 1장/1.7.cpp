@@ -5,12 +5,12 @@
 using namespace std;
 int main() {
 	double x;
-	cout << "¹ÝÁö¸§:";
+	cout << "Â¹ÃÃÃ¶Â¸Â§:";
 	cin >> x;
 
-	cout << "Ç¥¸éÀû:" << 4 * M_PI * x * x << endl;
+	cout << "Ã‡Â¥Â¸Ã©Ã€Ã»:" << 4 * M_PI * x * x << endl;
 	
-	cout << "ºÎÇÇ:"<< 4/3 *M_PI * x * x*x;
+	cout << "ÂºÃŽÃ‡Ã‡:"<< 4/3 *M_PI * x * x*x;
 	
 
 	return 0;
