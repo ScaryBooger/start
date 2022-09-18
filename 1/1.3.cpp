@@ -6,11 +6,11 @@ int main() {
 	int x;
 	int y;
 	int z;
-	cout << "Ã¹ ¹øÂ° º¯:";
+	cout << "ì²« ë²ˆì§¸ ë³€:";
 	cin >> x;
-	cout << "µÎ ¹øÂ° º¯:";
+	cout << "ë‘ ë²ˆì§¸ ë³€:";
 	cin >> y;
 	z = sqrt(x * x + y * y);
-	cout << "ºøº¯ ±æÀÌ:" << z;
+	cout << "ë¹—ë³€ ê¸¸ì´:" << z;
 	return 0;
 }
