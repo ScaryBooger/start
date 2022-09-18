@@ -6,16 +6,16 @@ int main() {
 	int x;
 	int y;
 	int z;
-	cout << "±æÀÌ: ";
+	cout << "ê¸¸ì´: ";
 	cin >> x;
-	cout << "³Êºñ: ";
+	cout << "ë„ˆë¹„: ";
 	cin >> y;
-	cout << "³ôÀÌ: ";
+	cout << "ë†’ì´: ";
 	cin >> z;
 	cout << endl;
 	cout << endl;
-	cout <<"»óÀÚÀÇ ºÎÇÇ:" << x * y * z << endl;
-	cout << "»óÀÚÀÇ Ç¥¸éÀû" << 2 * ((x * y) + (x * z) + (y * z));
+	cout <<"ìƒìì˜ ë¶€í”¼:" << x * y * z << endl;
+	cout << "ìƒìì˜ í‘œë©´ì " << 2 * ((x * y) + (x * z) + (y * z));
 
 
 	return 0;
