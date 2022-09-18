@@ -4,8 +4,8 @@
 using namespace std;
 int main() {
 	int age;
-	cout << "³ªÀÌ:";
+	cout << "Â³ÂªÃ€ÃŒ:";
 	cin >> age;
-	cout << "10³â ÈÄ¿¡´Â"<<" "<<age + 10<<"°¡ µË´Ï´Ù.:" << endl;
+	cout << "10Â³Ã¢ ÃˆÃ„Â¿Â¡Â´Ã‚"<<" "<<age + 10<<"Â°Â¡ ÂµÃ‹Â´ÃÂ´Ã™.:" << endl;
 	return 0;
 }
