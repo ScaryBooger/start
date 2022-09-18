@@ -6,11 +6,11 @@ int main() {
 	string a;
 	string b;
 	string c;
-	cout << "ÁÖ¾î";
+	cout << "ÃÃ–Â¾Ã®";
 	cin >> a;
-	cout << "µ¿»ç:";
+	cout << "ÂµÂ¿Â»Ã§:";
 	cin >> b;
-	cout << "¸ñÀû¾î:";
+	cout << "Â¸Ã±Ã€Ã»Â¾Ã®:";
 	cin >> c;
 	cout << a + b + c;
 	return 0;
