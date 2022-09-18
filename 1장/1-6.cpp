@@ -5,16 +5,16 @@ int main() {
 	int h;
 	int m;
 	int s;
-	cout << "½Ã:";
+	cout << "Â½Ãƒ:";
 	cin >> h;
 
-	cout << "ºĞ:";
+	cout << "ÂºÃ:";
 	cin >> m;
 
-	cout << "ÃÊ:";
+	cout << "ÃƒÃŠ:";
 	cin >> s;
 	
-	cout << "ÀüÃ¼ ÃÊ: " << h * 3600 + m * 60 + s;
+	cout << "Ã€Ã¼ÃƒÂ¼ ÃƒÃŠ: " << h * 3600 + m * 60 + s;
 
 	return 0;
 }
