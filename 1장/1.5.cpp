@@ -4,9 +4,9 @@ using namespace std;
 int main() {
 	const double y = 3.3058;
 	double x;
-	cout << "Æò:";
+	cout << "Ã†Ã²:";
 	cin >> x;
-	cout << "Æò¹æ¹ÌÅÍ" << x * y;
+	cout << "Ã†Ã²Â¹Ã¦Â¹ÃŒÃ…Ã" << x * y;
 	return 0;
 
 
